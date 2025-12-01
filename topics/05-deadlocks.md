@@ -317,6 +317,6 @@ Only allow 4 of 5 to dine at once
 
 ## Related Topics
 
-- [Locks and Mutexes](locks-and-mutexes.md) - Locks can cause deadlocks
-- [Race Conditions](race-conditions.md) - Different concurrency problem
-- [Thread Safety](thread-safety.md) - Writing safe concurrent code
+- [Locks and Mutexes](07-locks-and-mutexes.md) - Locks can cause deadlocks
+- [Race Conditions](04-race-conditions.md) - Different concurrency problem
+- [Thread Safety](06-thread-safety.md) - Writing safe concurrent code

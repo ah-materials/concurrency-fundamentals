@@ -145,6 +145,6 @@ function consumer():
 
 ## Related Topics
 
-- [Locks and Mutexes](locks-and-mutexes.md) - Binary version of semaphore
-- [Thread Pools](thread-pools.md) - Often use semaphores internally
-- [Jobs and Workers](jobs-and-workers.md) - Semaphores for resource limiting
+- [Locks and Mutexes](07-locks-and-mutexes.md) - Binary version of semaphore
+- [Thread Pools](12-thread-pools.md) - Often use semaphores internally
+- [Jobs and Workers](11-jobs-and-workers.md) - Semaphores for resource limiting

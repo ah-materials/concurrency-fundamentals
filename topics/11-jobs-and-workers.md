@@ -175,7 +175,7 @@ result = results_queue.take()
 
 ## Related Topics
 
-- [Thread Pools](thread-pools.md) - Common way to implement workers
-- [Queues and Stacks](queues-and-stacks.md) - Data structure for jobs
-- [Task Scheduling](task-scheduling.md) - When to run jobs
-- [Background Processes](background-processes.md) - Long-running workers
+- [Thread Pools](12-thread-pools.md) - Common way to implement workers
+- [Queues and Stacks](10-queues-and-stacks.md) - Data structure for jobs
+- [Task Scheduling](13-task-scheduling.md) - When to run jobs
+- [Background Processes](14-background-processes.md) - Long-running workers

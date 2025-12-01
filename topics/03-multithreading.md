@@ -139,9 +139,9 @@ Ensuring shared data isn't corrupted by concurrent access.
 
 ## Related Topics
 
-- [Processes and Threads](processes-and-threads.md) - Understanding threads
-- [Thread Pools](thread-pools.md) - Managing multiple threads efficiently
-- [Locks and Mutexes](locks-and-mutexes.md) - Protecting shared data
-- [Race Conditions](race-conditions.md) - Common problem with multithreading
-- [Deadlocks](deadlocks.md) - When threads get stuck
-- [Thread Safety](thread-safety.md) - Writing safe concurrent code
+- [Processes and Threads](01-processes-and-threads.md) - Understanding threads
+- [Thread Pools](12-thread-pools.md) - Managing multiple threads efficiently
+- [Locks and Mutexes](07-locks-and-mutexes.md) - Protecting shared data
+- [Race Conditions](04-race-conditions.md) - Common problem with multithreading
+- [Deadlocks](05-deadlocks.md) - When threads get stuck
+- [Thread Safety](06-thread-safety.md) - Writing safe concurrent code

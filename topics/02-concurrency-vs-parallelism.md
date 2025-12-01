@@ -89,5 +89,5 @@ All tasks run simultaneously
 
 ## Related Topics
 
-- [Multithreading](multithreading.md) - Can be concurrent, parallel, or both
-- [Thread Pools](thread-pools.md) - Managing concurrent/parallel execution
+- [Multithreading](03-multithreading.md) - Can be concurrent, parallel, or both
+- [Thread Pools](12-thread-pools.md) - Managing concurrent/parallel execution

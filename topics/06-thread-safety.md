@@ -259,7 +259,7 @@ Is your code thread-safe?
 
 ## Related Topics
 
-- [Race Conditions](race-conditions.md) - What thread-unsafe code causes
-- [Locks and Mutexes](locks-and-mutexes.md) - How to protect shared data
-- [Atomic Operations](atomic-operations.md) - Lock-free thread safety
-- [Deadlocks](deadlocks.md) - Problem when using locks
+- [Race Conditions](04-race-conditions.md) - What thread-unsafe code causes
+- [Locks and Mutexes](07-locks-and-mutexes.md) - How to protect shared data
+- [Atomic Operations](09-atomic-operations.md) - Lock-free thread safety
+- [Deadlocks](05-deadlocks.md) - Problem when using locks

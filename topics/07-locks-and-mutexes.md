@@ -283,8 +283,8 @@ Thread 1 & 2:
 
 ## Related Topics
 
-- [Race Conditions](race-conditions.md) - What locks prevent
-- [Deadlocks](deadlocks.md) - Common lock problem
-- [Thread Safety](thread-safety.md) - Making code safe for threads
-- [Atomic Operations](atomic-operations.md) - Lock-free alternative
-- [Semaphores](semaphores.md) - Generalization of locks
+- [Race Conditions](04-race-conditions.md) - What locks prevent
+- [Deadlocks](05-deadlocks.md) - Common lock problem
+- [Thread Safety](06-thread-safety.md) - Making code safe for threads
+- [Atomic Operations](09-atomic-operations.md) - Lock-free alternative
+- [Semaphores](08-semaphores.md) - Generalization of locks

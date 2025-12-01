@@ -65,5 +65,5 @@ Process A                    Process B
 
 ## Related Topics
 
-- [Multithreading](multithreading.md) - Using multiple threads
-- [Thread Safety](thread-safety.md) - Protecting shared data
+- [Multithreading](03-multithreading.md) - Using multiple threads
+- [Thread Safety](06-thread-safety.md) - Protecting shared data

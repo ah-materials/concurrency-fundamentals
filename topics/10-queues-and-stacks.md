@@ -195,6 +195,6 @@ Most languages provide thread-safe versions:
 
 ## Related Topics
 
-- [Jobs and Workers](jobs-and-workers.md) - Using queues for task distribution
-- [Thread Pools](thread-pools.md) - Often use queues internally
-- [Thread Safety](thread-safety.md) - Why thread-safe queues matter
+- [Jobs and Workers](11-jobs-and-workers.md) - Using queues for task distribution
+- [Thread Pools](12-thread-pools.md) - Often use queues internally
+- [Thread Safety](06-thread-safety.md) - Why thread-safe queues matter

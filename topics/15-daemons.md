@@ -240,6 +240,6 @@ Instead of writing daemonization code yourself, use:
 
 ## Related Topics
 
-- [Background Processes](background-processes.md) - Related concept
-- [Services](services.md) - Often implemented as daemons
-- [Task Scheduling](task-scheduling.md) - What daemons often do
+- [Background Processes](14-background-processes.md) - Related concept
+- [Services](16-services.md) - Often implemented as daemons
+- [Task Scheduling](13-task-scheduling.md) - What daemons often do

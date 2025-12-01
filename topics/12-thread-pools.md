@@ -219,7 +219,7 @@ background_pool.submit(generate_reports)
 
 ## Related Topics
 
-- [Jobs and Workers](jobs-and-workers.md) - Thread pool implements this pattern
-- [Multithreading](multithreading.md) - Understanding threads
-- [Queues](queues-and-stacks.md) - Used internally by thread pools
-- [Thread Safety](thread-safety.md) - Important when threads share data
+- [Jobs and Workers](11-jobs-and-workers.md) - Thread pool implements this pattern
+- [Multithreading](03-multithreading.md) - Understanding threads
+- [Queues](10-queues-and-stacks.md) - Used internally by thread pools
+- [Thread Safety](06-thread-safety.md) - Important when threads share data

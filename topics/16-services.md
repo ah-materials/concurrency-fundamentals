@@ -63,5 +63,5 @@ Get-Service -Name "ServiceName"
 
 ## Related Topics
 
-- [Daemons](daemons.md) - Unix/Linux services
-- [Background Processes](background-processes.md) - General background execution
+- [Daemons](15-daemons.md) - Unix/Linux services
+- [Background Processes](14-background-processes.md) - General background execution

@@ -278,7 +278,7 @@ Run this many times - if it ever fails, you have a race condition.
 
 ## Related Topics
 
-- [Locks and Mutexes](locks-and-mutexes.md) - Main solution to races
-- [Atomic Operations](atomic-operations.md) - Alternative to locks
-- [Thread Safety](thread-safety.md) - Writing race-free code
-- [Multithreading](multithreading.md) - Context for race conditions
+- [Locks and Mutexes](07-locks-and-mutexes.md) - Main solution to races
+- [Atomic Operations](09-atomic-operations.md) - Alternative to locks
+- [Thread Safety](06-thread-safety.md) - Writing race-free code
+- [Multithreading](03-multithreading.md) - Context for race conditions

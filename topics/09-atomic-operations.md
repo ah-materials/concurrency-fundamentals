@@ -176,6 +176,6 @@ Most of the time, use default (sequential consistency).
 
 ## Related Topics
 
-- [Locks and Mutexes](locks-and-mutexes.md) - Traditional synchronization
-- [Race Conditions](race-conditions.md) - What atomics prevent
-- [Thread Safety](thread-safety.md) - Making code thread-safe
+- [Locks and Mutexes](07-locks-and-mutexes.md) - Traditional synchronization
+- [Race Conditions](04-race-conditions.md) - What atomics prevent
+- [Thread Safety](06-thread-safety.md) - Making code thread-safe

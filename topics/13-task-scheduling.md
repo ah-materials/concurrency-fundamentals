@@ -138,6 +138,6 @@ Short tasks complete before long tasks
 
 ## Related Topics
 
-- [Jobs and Workers](jobs-and-workers.md) - What gets scheduled
-- [Thread Pools](thread-pools.md) - How tasks are executed
-- [Daemons](daemons.md) - Long-running processes that schedule tasks
+- [Jobs and Workers](11-jobs-and-workers.md) - What gets scheduled
+- [Thread Pools](12-thread-pools.md) - How tasks are executed
+- [Daemons](15-daemons.md) - Long-running processes that schedule tasks
